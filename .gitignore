@@ -1,0 +1,6 @@
+# the compiled program
+/bubble-packet
+
+# recorded captures: they list every host this Mac talked to
+*.csv
+*.tsv
